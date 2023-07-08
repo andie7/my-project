@@ -1,0 +1,41 @@
+body{
+font-family arial, sans-serif
+}
+
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+h1{
+    color rgb(189, 193, 198)
+color-scheme dark
+display inline
+font-size 14px;
+font-weight 700;
+height auto;
+line-height 22px;
+margin-bottom: 0;
+
+}
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+li{
+    list-style: none;
+    color rgb(189, 193, 198);
+color-scheme dark;
+display inline;
+
+font-size 14px;
+font-weight 700;
+height auto;
+line-height 22px;
+
+}

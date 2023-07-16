@@ -15,6 +15,13 @@ font-family arial, sans-serif
   padding: 20px;
 }
 
+.weather-temperature{
+
+text-align: center;
+    margin-right: 10px;
+    line-height: 1;
+}
+
 .weather-temperature img{
 
 

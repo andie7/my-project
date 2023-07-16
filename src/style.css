@@ -60,5 +60,6 @@ font-size 14px;
 font-weight 700;
 height auto;
 line-height 22px;
+text-transform: capitalize;
 
 }
